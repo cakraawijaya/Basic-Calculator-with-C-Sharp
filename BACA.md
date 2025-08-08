@@ -5,7 +5,7 @@
 ![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Basic-Calculator-with-C-Sharp
-Basic Calculator adalah aplikasi kalkulator desktop sederhana yang dikembangkan menggunakan bahasa pemrograman C#. Aplikasi ini mampu melakukan operasi aritmatika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian, dengan dukungan input bilangan bulat maupun desimal. Fitur yang tersedia meliputi Clear Entry (CE) untuk menghapus angka terakhir yang dimasukkan, Clear (C) untuk mereset seluruh perhitungan, serta tampilan hasil secara real-time pada kotak display. Proyek ini diselesaikan dalam waktu 1 hari dan dirancang sebagai contoh praktis untuk mempelajari dasar pemrograman GUI di C#.
+Basic Calculator adalah aplikasi kalkulator desktop sederhana yang dikembangkan menggunakan bahasa pemrograman C#. Aplikasi ini mampu melakukan operasi aritmatika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian, dengan dukungan input bilangan cacah maupun desimal. Fitur yang tersedia meliputi Clear Entry (CE) untuk menghapus angka terakhir yang dimasukkan, Clear (C) untuk mereset seluruh perhitungan, serta tampilan hasil secara real-time pada kotak display. Proyek ini diselesaikan dalam waktu 1 hari dan dirancang sebagai contoh praktis untuk mempelajari dasar pemrograman GUI di C#.
 
 <br><br>
 
@@ -24,7 +24,7 @@ Basic Calculator adalah aplikasi kalkulator desktop sederhana yang dikembangkan 
 <table><tr><td width="840">
   
 ```
-Segera Hadir
+https://bit.ly/VS_Enterprise_2015_Installer
 ```
 
 </td></tr></table>

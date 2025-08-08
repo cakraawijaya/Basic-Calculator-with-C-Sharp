@@ -5,7 +5,7 @@
 ![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Basic-Calculator-with-C-Sharp
-Basic Calculator is a simple desktop calculator application developed using the C# programming language. This application is capable of performing basic arithmetic operations such as addition, subtraction, multiplication, and division, with support for both integer and decimal number input. Features include Clear Entry (CE) to delete the last entered number, Clear (C) to reset the entire calculation, and real-time display of results on the display box. This project was completed in 1 day and designed as a practical example for learning the basics of GUI programming in C#.
+Basic Calculator is a simple desktop calculator application developed using the C# programming language. This application is capable of performing basic arithmetic operations such as addition, subtraction, multiplication, and division, with support for both whole and decimal number input. Features include Clear Entry (CE) to delete the last entered number, Clear (C) to reset the entire calculation, and real-time display of results on the display box. This project was completed in 1 day and designed as a practical example for learning the basics of GUI programming in C#.
 
 <br><br>
 
@@ -24,7 +24,7 @@ Basic Calculator is a simple desktop calculator application developed using the 
 <table><tr><td width="840">
   
 ```
-Coming Soon
+https://bit.ly/VS_Enterprise_2015_Installer
 ```
 
 </td></tr></table>
